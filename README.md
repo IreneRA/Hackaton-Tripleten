@@ -1,2 +1,2 @@
 # Hackaton-Tripleten
-Creación del modelo predictivo y comparación con predicciones basadas en el ranking FIFA.
+Creación de un modelo que predice el resultado de un partido y comparación con las predicciones basadas en el ranking FIFA.
